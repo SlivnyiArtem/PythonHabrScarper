@@ -1,2 +1,3 @@
 # PythonHabrScarper
-scarper for habr
+image scraper for habr
+Скрапер изображений из недавних статей Хабра.
